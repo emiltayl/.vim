@@ -10,6 +10,8 @@ call pathogen#infect()
 syntax on
 filetype plugin indent on
 
+autocmd FileType python set omnifunc=pythoncomplete#Complete
+
 set nocompatible
 
 set tabstop=4
