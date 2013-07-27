@@ -51,3 +51,5 @@ match OverLength /\%>80v.\+/
 
 set list
 set listchars=nbsp:…,tab:▸\ ,trail:·
+
+let @c='f{zfa}'
