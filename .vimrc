@@ -53,3 +53,6 @@ set list
 set listchars=nbsp:…,tab:▸\ ,trail:·
 
 let @c='f{zfa}'
+
+au FileType html setlocal shiftwidth=2 tabstop=2
+au FileType javascript setlocal shiftwidth=2 tabstop=2
