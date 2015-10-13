@@ -10,3 +10,6 @@
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
 	url = https://github.com/scrooloose/syntastic.git
+[submodule "bundle/vim-twig"]
+	path = bundle/vim-twig
+	url = git@github.com:evidens/vim-twig.git
