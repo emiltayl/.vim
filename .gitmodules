@@ -13,6 +13,3 @@
 [submodule "bundle/vim-twig"]
 	path = bundle/vim-twig
 	url = git@github.com:evidens/vim-twig.git
-[submodule "bundle/rust.vim"]
-	path = bundle/rust.vim
-	url = https://github.com/rust-lang/rust.vim.git
