@@ -46,9 +46,6 @@ nnoremap <tab> %
 vnoremap <tab> %
 nnoremap <leader>w <C-w>v<C-w>l
 
-highlight OverLength ctermbg=darkred ctermfg=white guibg=#FFD9D9
-match OverLength /\%>80v.\+/
-
 set list
 set listchars=nbsp:…,tab:▸\ ,trail:·
 
